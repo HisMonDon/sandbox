@@ -1,3 +1,4 @@
 # sandbox
 
-Hi, I am editing the document
+My first GitHub repository ...
+Hello World!
